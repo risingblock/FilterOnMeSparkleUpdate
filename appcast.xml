@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FilterOnMe</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sat, 03 Feb 2024 13:43:09 -0800</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/risingblock/FilterOnMeSparkleUpdate/releases/download/prod/FilterOnMe.dmg" length="84656242" type="application/octet-stream" sparkle:edSignature="R986yCM8F+XTpcqUYNquDU7nGGgTF+Gxc2JosA5MeGPJJm7/74ZNvZS7MlvWBJlbFY+K8KpHoCNseVm/jUusDA=="/>
+        </item>
+    </channel>
+</rss>
