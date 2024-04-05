@@ -3,12 +3,12 @@
     <channel>
         <title>FilterOnMe</title>
         <item>
-            <title>2.0.8</title>
-            <pubDate>Tue, 02 Apr 2024 16:35:08 -0700</pubDate>
-            <sparkle:version>2.0.8</sparkle:version>
-            <sparkle:shortVersionString>2.0.8</sparkle:shortVersionString>
+            <title>2.0.9</title>
+            <pubDate>Fri, 05 Apr 2024 14:06:30 -0700</pubDate>
+            <sparkle:version>2.0.9</sparkle:version>
+            <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/risingblock/FilterOnMeSparkleUpdate/releases/download/v2.0.8/FilterOnMe.dmg" length="86405948" type="application/octet-stream" sparkle:edSignature="HXrFVZlpWirb9j219MR9OCrC1RoluBWvqnzVbuAk+VpPdJfTdMlyixL7svAOJjS9IHZqTZKFJGkMBiCWxeJUAA=="/>
+            <enclosure url="https://github.com/risingblock/FilterOnMeSparkleUpdate/releases/download/v2.0.9/FilterOnMe.dmg" length="86736163" type="application/octet-stream" sparkle:edSignature="r4gUxu9EcFBL89CWlaWxTGGiPM/pcHn6q5WsyTX4Ise/m3x8BtMMyFoHRcWZk24J0srbMTKiCfa4bHEx4a9ZBw=="/>
         </item>
     </channel>
 </rss>
